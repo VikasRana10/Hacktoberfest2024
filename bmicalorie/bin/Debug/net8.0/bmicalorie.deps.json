@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bmicalorie/1.0.0": {
+        "runtime": {
+          "bmicalorie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bmicalorie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

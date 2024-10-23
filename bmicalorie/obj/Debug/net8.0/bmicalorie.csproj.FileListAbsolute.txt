@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\bin\Debug\net8.0\bmicalorie.exe
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\bin\Debug\net8.0\bmicalorie.deps.json
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\bin\Debug\net8.0\bmicalorie.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\bin\Debug\net8.0\bmicalorie.dll
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\bin\Debug\net8.0\bmicalorie.pdb
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\bmicalorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\bmicalorie.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\bmicalorie.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\bmicalorie.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\bmicalorie.dll
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\refint\bmicalorie.dll
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\bmicalorie.pdb
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\bmicalorie.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c#_Tutorial\bmicalorie\obj\Debug\net8.0\ref\bmicalorie.dll
